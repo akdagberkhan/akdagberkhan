@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Berkhan Akdağ</h1>
-<h3 align="center">I am an Android developer living in Turkey.</h3>
+<h3 align="center">I am an Software developer living in Turkey.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akdagberkhan&label=Profile%20views&color=0e75b6&style=flat" alt ="akdagberkhan" /> </p>
 

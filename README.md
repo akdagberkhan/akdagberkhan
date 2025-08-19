@@ -16,5 +16,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akdagberkhan&show_icons=true&theme=tokyonight&locale=tr&layout=compact" alt="akdagberkhan" /></p>
 
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=akdagberkhan&show_icons=true&theme=dark&locale=en" alt=" akdagberkhan" /></p>
+<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=akdagberkhan&show_icons=true&theme=dark&locale=en" alt="akdagberkhan" /></p>
 

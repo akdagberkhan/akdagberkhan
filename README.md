@@ -18,3 +18,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akdagberkhan&layout=compact&langs_count=8&theme=dark)
 
+![Berkhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akdagberkhan&show_icons=true&theme=dark)

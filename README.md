@@ -6,9 +6,8 @@
 
 <h3 align="left">Benimle bağlantı kurun:</h3>
 <p align ="sol">
-<a href="https://www.linkedin.com/in/akdagberkhan"
 <a href="https://www.linkedin.com/in/akdagberkhan" target="blank"><img align="center " src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/akdagberkhan" height="50" width="50" /></a>
-<a href="https://medium.com/@akdagberkhan" target="boş"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@akdagberkhan" height="50" width="50" /></a>
+<a href="https://medium.com/@akdagberkhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@akdagberkhan" height="50" width="50" /></a>
 </p> 
 
 <h3 align="left">Diller ve Araçlar:</h3>
